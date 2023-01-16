@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-feather": "^2.0.10",
+    "three": "^0.146.0",
+    "three.js": "^0.77.1",
+    "uuid": "^9.0.0"
+  }
+}
